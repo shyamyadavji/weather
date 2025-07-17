@@ -7,7 +7,7 @@ import os
 import sys
 
 # --- Configuration ---
-API_KEY = "76a684c3fe4e419a90395220252903" # Replace with your actual key
+API_KEY = "YOUR_SECRET_API_KEY_HERE" # Replace with your actual key
 
 # --- Resource Paths (Using ABSOLUTE Paths) ---
 BG_IMAGE_PATH = r"C:\Users\SHYAM YADAV\OneDrive\Desktop\weather\—Pngtree—cloud weather climate free cut_8186754.png"
