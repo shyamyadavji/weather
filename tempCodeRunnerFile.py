@@ -11,7 +11,7 @@ from config import API_KEY # <-- This gets your secret key
 
 # This finds your new 'assets' folder automatically!
 script_dir = os.path.dirname(os.path.abspath(__file__))
-BG_IMAGE_PATH = os.path.join(script_dir, "assets", "—Pngtree—cloud weather climate free cut_8186754.png")
+BG_IMAGE_PATH = os.path.join(script_dir, "assets", "background.png")
 ICON_PATHS = {
     'sun': os.path.join(script_dir, "assets", "sun.png"),
     'moon': os.path.join(script_dir, "assets", "moon.png")
