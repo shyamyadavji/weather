@@ -9,9 +9,7 @@ A sleek and modern desktop weather application built with Python and CustomTkint
 
 ### Showcase
 
-**(Pro Tip: Record a GIF of your application! A short video showing the tabs *and the chatbot in action* looks very impressive.)**
-
-![WeatherWise Showcase](https://i.imgur.com/REPLACE_WITH_YOUR_IMAGE_LINK.gif)
+![Image](https://github.com/user-attachments/assets/a5c2c19d-6ae3-432f-83d9-d1534ea50d11)
 
 ---
 
